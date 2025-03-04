@@ -9,3 +9,5 @@ title = 'Test'
 This is a test post.
 
 Can this line be added to the file?
+
+My cat is watching me type.
