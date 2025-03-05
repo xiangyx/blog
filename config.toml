@@ -19,17 +19,12 @@ hasCJKLanguage = true
     url = "/about/"
     weight = 2
 [[menu.main]]
-    name = "类别/Categories"
-    url = "/categories/"
-    weight = 3
-[[menu.main]]
     name = "标签/Tags"
     url = "/tags/"
-    weight = 4
+    weight = 3
 
 
 [params]
-    description = "Powered by Hugo"
     footer = "&copy; [Yaoxin Xiang](https://www.yao.dk) | [Github](https://github.com/xiangyx)"
 
 [markup]

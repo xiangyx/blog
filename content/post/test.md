@@ -2,14 +2,10 @@
 date : '2025-03-02'
 title : My first blog post
 subtitle : just for testing
-slug: test
-categories:
-  - cn
-tags:
-  - cph
-  - dk
+slug: first-post
+tags: 
+  - test
 ---
-
 ## Header
 
 This is a test post.
