@@ -1,13 +1,20 @@
 +++
-date = '2025-03-02T17:11:57+01:00'
-draft = false
-title = 'Test'
+date = '2025-03-02'
+title = My first blog post
+subtitle = just for testing
+slug: test
+categories:
+  - cn
+tags:
+  - cph
+  - dk
 +++
 
 ## Header
 
 This is a test post.
 
-Can this line be added to the file?
+Can this line be added to the file?[^1]
+[^1]: if you can see this, it's good.
 
 My cat is watching me type.

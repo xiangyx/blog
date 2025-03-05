@@ -1,0 +1,25 @@
+baseURL: "https://yao.dk/"
+languageCode: "en-us"
+title: "向尧新 | Yaoxin Xiang"
+theme: "hugo-xmin"
+hasCJKLanguage: true
+enableEmoji: true
+footnotereturnlinkcontents: "↩"
+
+permalinks:
+  post: "/post/:year/:month/:slug/"
+
+menu:
+  main:
+    - name: "主页/Home"
+      url: "/"
+      weight: 1
+    - name: "关于/About"
+      url: "/about/"
+      weight: 2
+    - name: "类别/Categories"
+      url: "/categories/"
+      weight: 3
+    - name: "标签/Tags"
+      url: "/tags/"
+      weight: 4
