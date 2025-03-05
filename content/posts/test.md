@@ -1,7 +1,7 @@
 ---
-date = '2025-03-02'
-title = My first blog post
-subtitle = just for testing
+date : '2025-03-02'
+title : My first blog post
+subtitle : just for testing
 slug: test
 categories:
   - cn
