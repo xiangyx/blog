@@ -23,10 +23,8 @@ hasCJKLanguage = true
     url = "/tags/"
     weight = 3
 
-
 [params]
     footer = "&copy; [Yaoxin Xiang](https://www.yao.dk) | [Github](https://github.com/xiangyx)"
-    favicon = "static/favicon.ico"
 
 [markup]
   [markup.goldmark]
