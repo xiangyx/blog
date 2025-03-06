@@ -25,6 +25,7 @@ hasCJKLanguage = true
 
 [params]
     footer = "&copy; [Yaoxin Xiang](https://www.yao.dk) | [Github](https://github.com/xiangyx)"
+    favicon = "favicon.ico"
 
 [markup]
   [markup.goldmark]
