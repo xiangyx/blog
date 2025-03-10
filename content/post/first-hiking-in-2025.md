@@ -1,6 +1,6 @@
 ---
 date : '2025-03-09'
-title : 25年第一次徒步
+title : 2025年第一次徒步
 subtitle : An adventure in Sydvestpynten
 slug: adgang-forbud
 tags: 
@@ -9,7 +9,8 @@ tags:
 
 趁着周末天气不错，我和小猫决定扩大一下在阿玛的探索半径。看了下地图，我们决定去阿玛最南的Sydvestpynten溜一圈。
 
-到了之后在一个牌子上有张地图，看起来可以从东边一直走到西边的Dragør，我们觉得这条路线看起来还挺不错，不过这次就走Sydvestpyndten这一小段。这个沙滩人不多，一路上只碰到一些遛狗的。根据[Visit Dragør](https://www.visit-dragoer.dk/dragoer/udforsk-dragoer/kite-surfing-spot-sydvestpynten-gdk1122998)的介绍，这地方夏天冲浪的人挺多，因为水浅，最深不过一米五。怪不得我们俩往里走的时候，前后都看不见人了，但是又能听到很清晰的说话声，海面上鸭子，天鹅，还有一些其他鸟类倒是挺多的，总不能鸟说人话吧？再往远望一点，我们俩发现三个比鸟大很多的小黑点，小猫掏出最新的爱疯，直接放大到20倍，嚯，真有三个人站在水里钓鱼。那么远，水才齐腰，还真第一次见，爱疯牛逼。
+到了之后在一个牌子上有张地图，看起来可以从东边一直走到西边的Dragør，我们觉得这条路线看起来还挺不错，不过这次就走Sydvestpyndten这一小段。这个沙滩人不多，一路上只碰到一些遛狗的。根据Visit Dragør[^1]的介绍，这地方夏天冲浪的人挺多，因为水浅，最深不过一米五。怪不得我们俩往里走的时候，前后都看不见人了，但是又能听到很清晰的说话声，海面上鸭子，天鹅，还有一些其他鸟类倒是挺多的，总不能鸟说人话吧？再往远望一点，我们俩发现三个比鸟大很多的小黑点，小猫掏出最新的爱疯，直接放大到20倍，嚯，真有三个人站在水里钓鱼。那么远，水才齐腰，还真第一次见，爱疯牛逼。
+[^1]:https://www.visit-dragoer.dk/dragoer/udforsk-dragoer/kite-surfing-spot-sydvestpynten-gdk1122998
 
 ![1741552176124](https://github.com/user-attachments/assets/a04623dc-d13e-4b1c-a104-42ed7cbc2847)
 
