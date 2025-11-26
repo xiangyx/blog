@@ -3,4 +3,4 @@ title: About Me
 author: Yaoxin Xiang
 ---
 
-- 耐磨砺，存长远，潜锋芒。
+- 今年不跳槽我就是狗！
