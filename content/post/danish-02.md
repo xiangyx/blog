@@ -392,4 +392,3 @@ personlige = personal
 | oplevelser | experiences | Jeg har mange **oplevelser**. → I have many experiences. |
 | have (haft) | had (past participle of “have”) | Jeg **har haft** en god dag. → I have had a good day. |
 | personlige | personal | Det er meget **personligt**. → It’s very personal. |
-
