@@ -1,6 +1,6 @@
 baseurl = "https://yao.dk/"
 languageCode = "en-us"
-title = "向尧新 | Yaoxin Xiang"
+title = "Yaoxin"
 theme = "hugo-xmin"
 footnotereturnlinkcontents = "↩"
 enableEmoji = true
