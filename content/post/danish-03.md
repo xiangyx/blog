@@ -10,63 +10,63 @@ tags:
 
 ## Vocabulary summary (Danish → English)
 
-| Danish | English | Example usage (Danish) |
-|---|---|---|
-| tilbyder | offer | Vi tilbyder en gratis prøvetime. |
-| inspirerende | inspiring | Det er en inspirerende træning i naturen. |
-| styrke | strength | Jeg vil gerne træne min styrke. |
-| kondition | fitness/condition | Hun løber for at forbedre sin kondition. |
-| hold med | classes with / teams with | Vi har hold med en professionel instruktør. |
-| prøvetime | trial session | Du kan booke en gratis prøvetime. |
-| Gør som | Do like | Gør som dine venner og tilmeld dig. |
-| andre | others | De andre kommer også i morgen. |
-| indbakke | inbox | Nyhedsbrevet ligger i din indbakke. |
-| masser af | lots of | Der er masser af tips på hjemmesiden. |
-| mode | fashion | Hun interesserer sig for mode. |
-| før | before | Kom fem minutter før foredraget. |
-| alle andre | everyone else | Få tilbud før alle andre. |
-| venlig | friendly | Personalet er meget venligt. |
-| børnemenuer | children's menus | Vi har børnemenuer til de små. |
-| burgere | burgers | De laver gode burgere her. |
-| shoppingturen | the shopping trip | Vi tager en pause på shoppingturen. |
-| Dyrehandlen | the pet store | Jeg køber foder i Dyrehandlen. |
-| kendte mærker | well-known brands | Butikken sælger kendte mærker. |
-| inden for | within | Hun arbejder inden for marketing. |
-| luksusfoder | luxury food | De har luksusfoder til hunde. |
-| udstyr | equipment | Husk at tage dit udstyr med. |
-| legetøj | toys | Katten elsker nyt legetøj. |
-| glade | happy | Vi vil have glade kunder. |
-| kæledyr | pets | Mange familier har kæledyr. |
-| særtilbud | special offer | Der er særtilbud i denne uge. |
-| hele denne uge | all this week | Vi har rabat hele denne uge. |
-| tasker | bags | Jeg kigger på nye tasker. |
-| penalhuse | pencil cases | Børnene mangler penalhuse til skolen. |
-| hæfter | notebooks | Jeg skal købe nogle hæfter. |
-| skriveredskaber | writing tools | Vi sælger skriveredskaber og papir. |
-| lommeregnere | calculators | Eleverne bruger lommeregnere i matematik. |
-| handel | store | Der er en god handel i byen. |
-| Tilmeld dig | Sign up | Tilmeld dig på vores hjemmeside. |
-| vandretur | hiking trip | Vi tager på vandretur på søndag. |
-| verden | world | Verden er stor, men Danmark er lille. |
-| deltagelse | participation | Deltagelse er gratis. |
-| Udannet | trained | Instruktøren er udannet og erfaren. |
-| eftermiddag | afternoon | Vi mødes i eftermiddag. |
-| hunderacer | dog breeds | Alle hunderacer er velkomne. |
-| nærmere | further / more detailed | Få nærmere information på hjemmesiden. |
-| hele familien | the whole family | Hele familien kan være med. |
-| lette | light/easy | Vi laver lette retter til hverdag. |
-| hverdagsretter | everyday dishes | Hun laver sunde hverdagsretter. |
-| hinnanden | each other | Vi hjælper hinnanden i køkkenet. |
-| råvarer | raw materials / ingredients | Prisen er inkl. råvarer. |
-| sted | place | Hvilket sted mødes vi? |
-| nogle | some | Vi søger nogle frivillige. |
-| frivillige | volunteers | De frivillige hjælper børnene. |
-| lyst til | want to | Har du lyst til at læse med? |
-| læse med | read with | Hun vil gerne læse med børnene. |
-| styr på | get control of | Jeg skal have styr på min økonomi. |
-| foredrag | lecture/talk | Jeg går til et foredrag i aften. |
-| opsparing | saving | Han lægger penge til opsparing. |
-| afholdes | is held | Foredraget afholdes torsdag. |
+| Danish          | English                     | Example usage (Danish → English)                                                              |
+| --------------- | --------------------------- | --------------------------------------------------------------------------------------------- |
+| tilbyder        | offer                       | Vi tilbyder en gratis prøvetime. → We offer a free trial session.                             |
+| inspirerende    | inspiring                   | Det er en inspirerende træning i naturen. → It is inspiring training in nature.               |
+| styrke          | strength                    | Jeg vil gerne træne min styrke. → I want to train my strength.                                |
+| kondition       | fitness/condition           | Hun løber for at forbedre sin kondition. → She runs to improve her fitness.                   |
+| hold med        | classes with / teams with   | Vi har hold med en professionel instruktør. → We have classes with a professional instructor. |
+| prøvetime       | trial session               | Du kan booke en gratis prøvetime. → You can book a free trial session.                        |
+| Gør som         | Do like                     | Gør som dine venner og tilmeld dig. → Do like your friends and sign up.                       |
+| andre           | others                      | De andre kommer også i morgen. → The others are also coming tomorrow.                         |
+| indbakke        | inbox                       | Nyhedsbrevet ligger i din indbakke. → The newsletter is in your inbox.                        |
+| masser af       | lots of                     | Der er masser af tips på hjemmesiden. → There are lots of tips on the website.                |
+| mode            | fashion                     | Hun interesserer sig for mode. → She is interested in fashion.                                |
+| før             | before                      | Kom fem minutter før foredraget. → Come five minutes before the lecture.                      |
+| alle andre      | everyone else               | Få tilbud før alle andre. → Get offers before everyone else.                                  |
+| venlig          | friendly                    | Personalet er meget venligt. → The staff is very friendly.                                    |
+| børnemenuer     | children's menus            | Vi har børnemenuer til de små. → We have children's menus for the little ones.                |
+| burgere         | burgers                     | De laver gode burgere her. → They make good burgers here.                                     |
+| shoppingturen   | the shopping trip           | Vi tager en pause på shoppingturen. → We take a break on the shopping trip.                   |
+| Dyrehandlen     | the pet store               | Jeg køber foder i Dyrehandlen. → I buy feed at the pet store.                                 |
+| kendte mærker   | well-known brands           | Butikken sælger kendte mærker. → The store sells well-known brands.                           |
+| inden for       | within                      | Hun arbejder inden for marketing. → She works within marketing.                               |
+| luksusfoder     | luxury food                 | De har luksusfoder til hunde. → They have luxury food for dogs.                               |
+| udstyr          | equipment                   | Husk at tage dit udstyr med. → Remember to bring your equipment.                              |
+| legetøj         | toys                        | Katten elsker nyt legetøj. → The cat loves new toys.                                          |
+| glade           | happy                       | Vi vil have glade kunder. → We want happy customers.                                          |
+| kæledyr         | pets                        | Mange familier har kæledyr. → Many families have pets.                                        |
+| særtilbud       | special offer               | Der er særtilbud i denne uge. → There is a special offer this week.                           |
+| hele denne uge  | all this week               | Vi har rabat hele denne uge. → We have a discount all this week.                              |
+| tasker          | bags                        | Jeg kigger på nye tasker. → I'm looking at new bags.                                          |
+| penalhuse       | pencil cases                | Børnene mangler penalhuse til skolen. → The children are missing pencil cases for school.     |
+| hæfter          | notebooks                   | Jeg skal købe nogle hæfter. → I need to buy some notebooks.                                   |
+| skriveredskaber | writing tools               | Vi sælger skriveredskaber og papir. → We sell writing tools and paper.                        |
+| lommeregnere    | calculators                 | Eleverne bruger lommeregnere i matematik. → The students use calculators in math.             |
+| handel          | store                       | Der er en god handel i byen. → There is a good store in town.                                 |
+| Tilmeld dig     | Sign up                     | Tilmeld dig på vores hjemmeside. → Sign up on our website.                                    |
+| vandretur       | hiking trip                 | Vi tager på vandretur på søndag. → We're going on a hiking trip on Sunday.                    |
+| verden          | world                       | Verden er stor, men Danmark er lille. → The world is big, but Denmark is small.               |
+| deltagelse      | participation               | Deltagelse er gratis. → Participation is free.                                                |
+| Udannet         | trained                     | Instruktøren er udannet og erfaren. → The instructor is trained and experienced.              |
+| eftermiddag     | afternoon                   | Vi mødes i eftermiddag. → We meet this afternoon.                                             |
+| hunderacer      | dog breeds                  | Alle hunderacer er velkomne. → All dog breeds are welcome.                                    |
+| nærmere         | further / more detailed     | Få nærmere information på hjemmesiden. → Get further information on the website.              |
+| hele familien   | the whole family            | Hele familien kan være med. → The whole family can join.                                      |
+| lette           | light/easy                  | Vi laver lette retter til hverdag. → We make light dishes for everyday.                       |
+| hverdagsretter  | everyday dishes             | Hun laver sunde hverdagsretter. → She makes healthy everyday dishes.                          |
+| hinnanden       | each other                  | Vi hjælper hinnanden i køkkenet. → We help each other in the kitchen.                         |
+| råvarer         | raw materials / ingredients | Prisen er inkl. råvarer. → The price includes ingredients.                                    |
+| sted            | place                       | Hvilket sted mødes vi? → Which place do we meet at?                                           |
+| nogle           | some                        | Vi søger nogle frivillige. → We are looking for some volunteers.                              |
+| frivillige      | volunteers                  | De frivillige hjælper børnene. → The volunteers help the children.                            |
+| lyst til        | want to                     | Har du lyst til at læse med? → Do you want to read with (them)?                               |
+| læse med        | read with                   | Hun vil gerne læse med børnene. → She wants to read with the children.                        |
+| styr på         | get control of              | Jeg skal have styr på min økonomi. → I need to get control of my finances.                    |
+| foredrag        | lecture/talk                | Jeg går til et foredrag i aften. → I'm going to a lecture tonight.                            |
+| opsparing       | saving                      | Han lægger penge til opsparing. → He puts money into savings.                                 |
+| afholdes        | is held                     | Foredraget afholdes torsdag. → The lecture is held Thursday.                                  |
 
 ## Grammatical notes
 
