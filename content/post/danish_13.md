@@ -13,12 +13,11 @@ tags:
 #### Main Clause (hovedsætning) — The V2 Rule
 The **finite verb** (conjugated verb) is **always in position 2** (V2), no matter what comes first.
 
-```
-[Position 1]      [V2: finite verb]  [Subject]  [Adverb]  [Infinitive/rest]
-Han               bruger             —           fx ikke   mange penge på mad.
-Det               har                han         —         det fint med.
-Når han cykler,   får                han         nemlig    gratis motion.
-```
+| Position 1      | V2: finite verb | Subject | Adverb  | Infinitive/rest     |
+| --------------- | --------------- | ------- | ------- | ------------------- |
+| Han             | bruger          | —       | fx ikke | mange penge på mad. |
+| Det             | har             | han     | —       | det fint med.       |
+| Når han cykler, | får             | han     | nemlig  | gratis motion.      |
 
 If anything other than the subject starts the sentence (adverb, time phrase, subordinate clause), the **subject and verb swap** — this is called **inversion**:
 
@@ -50,13 +49,12 @@ If anything other than the subject starts the sentence (adverb, time phrase, sub
 
 After conjunctions (at, fordi, selvom, når, hvor, som, mens, fordi, om…):
 
-```
-[Conjunction]  [Subject]  [Adverb/ikke]  [Finite verb]  [Rest]
-fordi          de         gerne          vil            tjene lidt ekstra
-selvom         det        ikke           er             ret mange penge
-fordi          han        hellere        vil            koncentrere sig
-at             han        næsten altid   cykler         i Aalborg
-```
+| Conjunction | Subject | Adverb/ikke  | Finite verb | Rest              |
+| ----------- | ------- | ------------ | ----------- | ----------------- |
+| fordi       | de      | gerne        | vil         | tjene lidt ekstra |
+| selvom      | det     | ikke         | er          | ret mange penge   |
+| fordi       | han     | hellere      | vil         | koncentrere sig   |
+| at          | han     | næsten altid | cykler      | i Aalborg         |
 
 > **The golden rule:** In a subordinate clause, **sentence adverbs (ikke, altid, aldrig, gerne, hellere, nok, godt, vist…) come BEFORE the finite verb** — the opposite of main clauses.
 
