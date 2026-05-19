@@ -4,4 +4,5 @@ author: Yaoxin Xiang
 ---
 
 ## 2026
-- PD2
+- [x] Certified Kubernetes Admin exam
+- [ ] Danish PD2 exam
