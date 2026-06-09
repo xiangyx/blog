@@ -4,8 +4,6 @@ title : Danish Vocabulary
 slug: dansk-ord
 tags:
   - Danish
-_build:
-  list: never
 ---
 
 ### 第一部分：代词 (Pronouns)
