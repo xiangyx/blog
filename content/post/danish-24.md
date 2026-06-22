@@ -98,3 +98,53 @@ Måske er den bedste løsning at starte i lejlighed i byen, mens de er unge og i
 
 ---
 
+### Husarbejde – Nøgleord og korte sætninger (Score 0–2)
+
+**Nøgleord (Key words):**
+- husarbejde – housework
+- rengøring – cleaning
+- støvsuge – to vacuum
+- vaske op – to do the dishes
+- lave mad – to cook
+- køkken – kitchen
+- sofa – sofa
+- computer – computer
+- dokumenter – documents
+- arbejde – to work
+- se fjernsyn / se TV – to watch TV
+- doven – lazy
+- travl – busy
+- ligestilling – equality
+- fordele – to share / to divide
+- ansvar – responsibility
+- sammen – together
+
+**Billede 1 – Kvinden gør rent, manden ser TV:**
+- På billedet kan man se en kvinde og en mand. – On the picture one can see a woman and a man.
+- Kvinden gør rent. – The woman is cleaning.
+- Manden sidder i sofaen og ser TV. – The man is sitting on the sofa watching TV.
+- Han hjælper ikke med husarbejdet. – He is not helping with the housework.
+- Det ser ikke retfærdigt ud. – It does not look fair.
+- Kvinden ser travl ud. – The woman looks busy.
+- Manden ser afslappet ud. – The man looks relaxed.
+
+**Billede 2 – Manden laver mad, kvinden arbejder:**
+- På billedet kan man se en mand i køkkenet. – On the picture one can see a man in the kitchen.
+- Han laver mad. – He is cooking.
+- Kvinden sidder i sofaen med en computer og mange dokumenter. – The woman is sitting on the sofa with a computer and many documents.
+- Hun arbejder hjemme. – She is working from home.
+- De deler opgaverne. – They share the tasks.
+- Det ser retfærdigt ud. – It looks fair.
+- Begge bidrager til hjemmet. – Both contribute to the home.
+
+**Din mening (Your opinion):**
+- Jeg synes, man skal dele husarbejdet ligeligt. – I think housework should be shared equally.
+- Det er ikke retfærdigt, at kun én person gør alt. – It is not fair that only one person does everything.
+- Begge skal hjælpe til derhjemme. – Both should help at home.
+- Jeg foretrækker billede to, fordi de deler opgaverne. – I prefer picture two because they share the tasks.
+- Det er vigtigt med ligestilling i hjemmet. – Equality at home is important.
+- Man skal tale om, hvem der gør hvad. – One should talk about who does what.
+- Jeg hjælper selv med husarbejdet derhjemme. – I help with the housework at home myself.
+
+---
+
