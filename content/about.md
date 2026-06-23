@@ -7,3 +7,4 @@ author: Yaoxin Xiang
 - [x] Certified Kubernetes Admin exam
 - [x] Danish PD2 exam (7-7-4)
 - [x] Promotion (finally!)
+- [ ] Serverless log forwarding
