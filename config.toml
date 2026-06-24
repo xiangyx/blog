@@ -15,8 +15,8 @@ hasCJKLanguage = true
     url = "/"
     weight = 1
 [[menu.main]]
-    name = "关于/About"
-    url = "/about/"
+    name = "忙啥/TODO"
+    url = "/todo/"
     weight = 2
 [[menu.main]]
     name = "标签/Tags"

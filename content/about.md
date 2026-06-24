@@ -1,6 +1,5 @@
 ---
-title: About Me
-author: Yaoxin Xiang
+title: TODO
 ---
 
 ## 2026
